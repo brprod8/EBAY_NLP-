@@ -1,4 +1,4 @@
-![](/pics\NLP.jpeg)
+![](pics\NLP.jpeg)
 
 `Natural Language Processing` (NLP), **Named Entity Recognition** (NER) is a fundamental task to identify the key elements in a text. Extracting the main entities in a text helps sort unstructured data and detect important information, which is crucial if you have to deal with large datasets
 
