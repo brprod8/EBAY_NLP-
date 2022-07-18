@@ -53,6 +53,14 @@ Among these item titles there will be approximately 10,000 labeled item titles (
 
 >👨🏿‍⚖️ Evaluate F1 score to improve accuracy [click here](https://spacy.io/api/scorer) to learn how to get **score** in `Spacy` 
 
+
+# STEP 6
+
+Exploring Spacy 3.0
+
+![](pics/spacy3.png)
+
+
 # REQUIREMENTS
 
 >👨🏿‍⚖️  Click name to download
